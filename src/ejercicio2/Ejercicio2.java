@@ -94,7 +94,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -114,7 +114,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -135,7 +135,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -192,7 +192,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -211,7 +211,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -230,7 +230,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -287,7 +287,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -306,7 +306,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -326,7 +326,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Samsung S7");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -404,7 +404,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -424,7 +424,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -445,7 +445,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -502,7 +502,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -521,7 +521,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -540,7 +540,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -597,7 +597,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -616,7 +616,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -636,7 +636,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el Huawey P8");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -713,7 +713,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -733,7 +733,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -754,7 +754,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -811,7 +811,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -830,7 +830,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -849,7 +849,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -906,7 +906,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -925,7 +925,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
@@ -945,7 +945,7 @@ public class Ejercicio2 {
                                     System.out.println(" ");
                                     System.out.println("Gracias por la Compra: ");
                                     System.out.println(" ");
-                                    System.out.println("Adquisrites el Samsung S7");
+                                    System.out.println("Adquiriste el iPhone 6");
                                     System.out.println("Especificaciones: " );
                                     System.out.println("Pantalla : 	4.7");
                                     System.out.println("Camara  : 8MP");  
