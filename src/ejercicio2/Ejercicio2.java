@@ -28,11 +28,14 @@ public class Ejercicio2 {
         System.out.println("B.Huawey P8  ----Codigo: (0456) " );
         System.out.println("C.iPhone 6   ----Codigo: (0783)");
         System.out.println(" ");
+        
+        //Ingresar el codigo del producto a adquirir
         System.out.println(" Ingrese el codigo del equipo: ");
         x=modelos.nextLine();
         
         int X=Integer.parseInt(x);
         
+        //Casos para los modelos del telefono
         switch (x){
             
             case "0612":
@@ -53,6 +56,7 @@ public class Ejercicio2 {
                 a=modelos.nextLine();
                 int A=Integer.parseInt(a);
                 
+                //Caso para elegir el operador
                     switch (a){
                         case "1":
                             
@@ -85,7 +89,7 @@ public class Ejercicio2 {
                             b=modelos.next();
                             int B=Integer.parseInt(b);
                             
-                           
+                           //casos para el tipo de plan
                     
                             switch  (b){
                                 case "1":
@@ -363,6 +367,8 @@ public class Ejercicio2 {
                 a=modelos.nextLine();
                 int P=Integer.parseInt(a);
                 
+                //casos para el tipo de operador
+                
                     switch (a){
                         case "1":
                             
@@ -395,8 +401,9 @@ public class Ejercicio2 {
                             e=modelos.next();
                             int E=Integer.parseInt(e);
                             
-                           
-                    
+                           //en el caso de elejir un plan de los 3 al final saldra lo que adquiriste
+                            
+                            
                             switch  (e){
                                 case "1":
                                     
@@ -495,7 +502,8 @@ public class Ejercicio2 {
                             f=modelos.next();
                             int F=Integer.parseInt(f);
                     
-                            
+                           //en el caso de elejir un plan de los 3 al final saldra lo que adquiriste
+                           
                             switch  (f){
                                 case "1":
                                     
@@ -590,6 +598,8 @@ public class Ejercicio2 {
                            
                             g=modelos.next();
                             int N=Integer.parseInt(g);
+                            
+                            //en el caso de elejir un plan de los 3 al final saldra lo que adquiriste
                             
                             switch (g){
                                 case "1":
@@ -705,7 +715,8 @@ public class Ejercicio2 {
                             int E=Integer.parseInt(e);
                             
                            
-                    
+                              //en el caso de elejir un plan de los 3 al final saldra lo que adquiriste
+                            
                             switch  (e){
                                 case "1":
                                     
@@ -804,7 +815,7 @@ public class Ejercicio2 {
                             f=modelos.next();
                             int F=Integer.parseInt(f);
                     
-                            
+                              //en el caso de elejir un plan de los 3 al final saldra lo que adquiriste
                             switch  (f){
                                 case "1":
                                     
@@ -899,7 +910,7 @@ public class Ejercicio2 {
                            
                             g=modelos.next();
                             int N=Integer.parseInt(g);
-                            
+                            //en el caso de elejir un plan de los 3 al final saldra lo que adquiriste
                             switch (g){
                                 case "1":
                                     System.out.println(" ");
